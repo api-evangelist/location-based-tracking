@@ -4,7 +4,7 @@ description: >-
   An index covering APIs and services for location-based tracking, geolocation,
   GPS tracking, geofencing, route optimization, and spatial data management.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/location-based-tracking/refs/heads/main/apis.yml
 tags:
   - Geolocation
